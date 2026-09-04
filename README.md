@@ -80,12 +80,6 @@ main
 
 Or open `JetProTermProject.mlx` as a Live Script and run it section by section.
 
-## Status
-
-⚠️ The five component functions in `src/components/` are **not yet committed** —
-`main.m` calls them but the physics files need to be added before the code will
-run. See `src/components/README.md` for the exact signatures each one must
-match.
 
 ## Validation
 
