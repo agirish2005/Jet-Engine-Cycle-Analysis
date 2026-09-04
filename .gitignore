@@ -1,0 +1,19 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.slxc
+slprj/
+octave-workspace
+
+# MATLAB autosave / temp
+.autosave/
+*.autosave
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
